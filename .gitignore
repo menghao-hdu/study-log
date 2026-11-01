@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# 代码生成的产物
+output/
+
+# Windows
+Thumbs.db
+desktop.ini
